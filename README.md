@@ -40,19 +40,7 @@
   </a>
   </p>
 </p>
-
-<h2> ✅ N O T E - B E F O R E - U S I N G !!- EN</h2>
-<ul>
-     ➤ Add Your SESSION ID To Your <code>config.js</code>
-    ➤ Also Add Your Github Auth Token (without gph_) And Github User Name To <code>config.js</code>
-</ul>
-
-<hr>
-<h2>✅ N O T E - B E F O R E - U S I N G !! -SI</h2>
-➤ </code>Fork</code> / Use This </code>Template</code> button එක Click කරන්න.
-
-➤ ඔබේ <code>SESSION ID</code>, Github Auth Token(gph_ නැතිව) සහ Github User Name: <code>config.js</code> එකට එක් කරන්න.
-</hr>
+<p> <h3>✅DON'T REMOVE THE GITHUB TOKEN (ghp_)</h3></p>
 <hr>
 
 <b>GET SESSION ID VIA PAIR CODE 01</b>
